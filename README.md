@@ -2,6 +2,7 @@
 
 Share your clipboard text with other computers on your local network. This tool offers both a headless command-line interface and a user-friendly graphical interface with automatic network discovery.
 
+<img width="638" height="731" alt="image" src="https://github.com/user-attachments/assets/a962b0e8-3c83-4ba2-9976-4ccd3fb03e35" />
 
 ---
 
